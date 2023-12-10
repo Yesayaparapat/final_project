@@ -1,0 +1,202 @@
+@media (min-width: 320px) {
+    .custom-margin-bottom{
+        margin-bottom:265px;
+    }
+    .albob{
+      margin-bottom: 173px;
+    }
+    .domu{
+      margin-bottom: 236px;
+    }
+    .ryan{
+      margin-bottom: 260px;
+    }
+    .text-lg{
+      font-size: 17px;
+      font-weight: bold;
+      color: #4D4D4D;
+    }
+    .siak{
+      margin-left:530px ;
+    }
+    .sialan{
+      position:relative;
+      margin-left:990px;
+      color: rgba(225, 225, 225, 1);
+      bottom:100px;
+    }
+    .romakelapa{
+      position:relative;
+      left:700px; 
+      bottom:70px;
+      color:#ECE3D8;
+    }
+    .romadomu{
+      position:relative;
+      left:1000px;
+      bottom:60px;
+      font-size:13px;
+      color:#ECE3D8;
+    }
+    
+    .gambardomu{
+      position:relative;
+      left:120px;
+    }
+
+    .bawah4 {
+      width: 636px;
+      height: 320px;
+      background-color: white;
+      margin-top: 10px;
+  }
+  .bg-abuabu{
+    background-color:#E6E6E6;
+    height:1000px;
+  }
+  .satu{
+    border-right:1px solid #ECE3D8;
+    margin-right:10px;
+    padding-right:10px;
+  }
+  .bg-projec-coklat{
+    background-color:#B99972;
+    height:150px;
+  }
+  .text-besar{
+    font-size:61px;
+    color:#4D4D4D;
+  }
+  .text-besar2{
+    font-size:65px;
+    color:#4D4D4D
+  }
+  
+  .text-shadow-example {
+    text-shadow: 1px 1px 2px white; /* Property text-shadow yang diterapkan pada kelas ini */
+}
+
+    .ml-new{
+        margin-top:80px;
+        position:relative;
+        left:150px;       
+    }
+    .nav-link{
+        font-weight:bold;
+        font-size:20px;
+    }
+    .bg-bantu{
+        background-size: cover;
+        background-position: center center; 
+    }
+    .arah{
+        width:40px;
+        height:40px;
+    }
+    .arah-cantik{
+        background-color:#B99972;
+        display:relative;
+        left:-500px;
+    }
+
+  
+
+   
+  }
+    @media (max-width: 1200px){
+      .yesaya{
+        margin-bottom: 50px;
+      }
+      .nael{
+        padding-bottom:100px;
+      }
+      .display-tetap{
+        font-size:22px;
+        position:relative;
+        right:400px;
+      }
+      .waktu{
+        margin-left:340px;
+      }
+      
+      .sialan{
+        position:relative;
+        margin-left:100px;
+        color: rgba(225, 225, 225, 1);
+        font-size:5px;
+      }
+      .bg-abuabu{
+        background-color:#E6E6E6;
+        height:1700px;
+      }
+      .romakelapa{
+        position:relative;
+        left:00px; 
+        bottom:0px;
+        color:#ECE3D8;
+        font-size:12px
+      }
+      .romadomu{
+        position:relative;
+        left:80px;
+        bottom:0px;
+        font-size:10px;
+        color:#ECE3D8;
+
+      }
+      
+      .gambardomu{
+        position:relative;
+        left:160px;
+        width:150px;
+      }
+      .bg-projec-coklat{
+        background-color:#B99972;
+        height:220px;
+      }
+      .satu{
+        border-right:0;
+        margin-right:2px;
+        padding-right:0px;
+      }
+      .bawah4 {
+        width: 460px;
+        height: 400px;
+        background-color: white;
+        margin-top: 10px;
+    }
+    .text-besar{
+      font-size:25px;
+      color:#4D4D4D;
+      position:relative;
+      top:300px;
+      right:140px;
+    }
+    .text-besar2{
+      font-size:27px;
+      color:#4D4D4D;
+      position:relative;
+      top:300px;
+      right:140px;
+    }
+    .text-besar3{
+      font-size:15px;
+      position:relative;
+      top:300px;
+      right:140px;
+      width:400px;
+    }
+    
+
+
+}
+
+
+  
+  /* Untuk ukuran layar kecil */
+  @media (max-width: 576px) {
+      .bawah4 {
+          height: 200px; /* Sesuaikan tinggi untuk layar kecil */
+      }
+  }    
+    
