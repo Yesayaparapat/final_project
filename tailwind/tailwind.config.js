@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'backgrouond1': "url('/tailwind/public/img/foto-homepage-01.jpg')",
-        'foto1ya' : "url('/tailwind/public/img/annual-bg (1).jpg')",
+        'backgrouond1': "url('/public/img/foto-homepage-01.jpg')",
+        'background2' : "url('/public/img/annual-bg (1).jpg')",
       },
       colors: {
         projec: {
